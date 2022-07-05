@@ -1,0 +1,31 @@
+{
+  "errorMessage": "iTunes search is unavailable",
+  "items": [
+    {
+      "title": "A Love Hate Thing",
+      "authors": "Whitney D. Grandison",
+      "type": "BOOK"
+    },
+    {
+      "title": "Love, Hate & Clickbait",
+      "authors": "Liz Bowery",
+      "type": "BOOK"
+    },
+    {
+      "title": "Love, Hate and Reparation",
+      "authors": "Melanie Klein",
+      "type": "BOOK"
+    },
+    {
+      "title": "Love, Hate, Love.",
+      "authors": "ヤマシタトモコ",
+      "type": "BOOK"
+    },
+    {
+      "title": "Men Who Hate Women and the Women Who Love Them",
+      "authors": "Susan Forward, Joan Torres",
+      "type": "BOOK"
+    }
+  ]
+}
+

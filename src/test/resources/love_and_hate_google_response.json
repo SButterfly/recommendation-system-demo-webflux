@@ -1,0 +1,255 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 442,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "ZI6PDwAAQBAJ",
+      "etag": "SVUX+2WR+z0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZI6PDwAAQBAJ",
+      "volumeInfo": {
+        "title": "A Love Hate Thing",
+        "authors": [
+          "Whitney D. Grandison"
+        ],
+        "publisher": "Harlequin",
+        "publishedDate": "2020-01-07",
+        "description": "“If you love a good enemies-to-lovers trope, run—don’t walk—to the nearest bookstore or library near you.”—Buzzfeed “A Love Hate Thing is an irresistible romance that you’ll gobble up whole.”—Popsugar When they’re stuck under one roof, the house may not be big enough for their hate…or their love. Despite having been shot, Tyson Trice has survived the mean streets of Lindenwood, so nothing can faze him—not even being tossed into the affluent coastal community of Pacific Hills. Nandy Smith, the golden girl of Pacific Hills, is not pleased when she hears her parents are taking in a troubled teen boy. Nandy suddenly fears her summer plans, as well as her reputation, will go up in flames. The wall between Trice and Nandy’s bedrooms feels as thin as the line between love and hate. Through time, Trice brings Nandy out of her shell, and Nandy attempts to melt the ice that’s taken over Trice’s heart. Only, with the ever-present pull back to the Lindenwood streets, it’ll be a wonder if Trice makes it through this summer at all. “Emotional, gripping love story! I couldn’t put it down!”—New York Times bestselling author Simone Elkeles",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZI6PDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZI6PDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ru/books?id=ZI6PDwAAQBAJ&printsec=frontcover&dq=intitle:Love+and+hate&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZI6PDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZI6PDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "listPrice": {
+          "amount": 833.68,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 833.68,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZI6PDwAAQBAJ&rdid=book-ZI6PDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 833680000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 833680000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/A_Love_Hate_Thing-sample-epub.acsm?id=ZI6PDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "But with the ever-present pull back to Lindenwood, it’ll be a wonder if Trice makes it through this summer at all. Also by Whitney D. Grandison: The Right Side of Reckless"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "k-MaAQAAMAAJ",
+      "etag": "LjL7o79ZtHk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/k-MaAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Love, Hate and Reparation",
+        "subtitle": "Two Lectures",
+        "authors": [
+          "Melanie Klein"
+        ],
+        "publishedDate": "1967",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=k-MaAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=k-MaAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ru/books?id=k-MaAQAAMAAJ&q=intitle:Love+and+hate&dq=intitle:Love+and+hate&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=k-MaAQAAMAAJ&dq=intitle:Love+and+hate&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Love_Hate_and_Reparation.html?hl=&id=k-MaAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yGlqzgEACAAJ",
+      "etag": "3ECXIo6+NQE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yGlqzgEACAAJ",
+      "volumeInfo": {
+        "title": "Love, Hate & Clickbait",
+        "authors": [
+          "Liz Bowery"
+        ],
+        "publisher": "MIRA",
+        "publishedDate": "2022-04-26",
+        "description": "Shake some hands. Kiss some coworkers. Cutthroat political consultant Thom Morgan is thriving, working on the governor of California's presidential campaign. If only he didn't have to deal with Clay Parker, the infuriatingly smug data analyst who gets under Thom's skin like it's his job. In the midst of one of their heated and very public arguments, a journalist snaps a photo, but the image makes it look like they're kissing. As if that weren't already worst-nightmare territory, the photo goes viral--and in a bid to secure the liberal vote, the governor asks them to lean into it. Hard. Thom knows all about damage control--he practically invented it. Ever the professional, he'll grin and bear this challenge as he does all others. But as the loyal staffers push the boundaries of \"giving the people what they want,\" the animosity between them blooms into something deeper and far more dangerous: desire. Soon their fake relationship is hurtling toward something very real, which could derail the campaign and cost them both their jobs...and their hearts.",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yGlqzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yGlqzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ru/books?id=yGlqzgEACAAJ&dq=intitle:Love+and+hate&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=yGlqzgEACAAJ&dq=intitle:Love+and+hate&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Love_Hate_Clickbait.html?hl=&id=yGlqzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "When a misleading photo of them goes viral, political consultant Thom Morgan and data analyst Clay Parker--sworn enemies working with a presidential candidate--are forced to fake a relationship to save the campaign, and soon the political ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qWEmcgAACAAJ",
+      "etag": "6oE0603gtr0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qWEmcgAACAAJ",
+      "volumeInfo": {
+        "title": "Love, Hate, Love.",
+        "authors": [
+          "ヤマシタトモコ"
+        ],
+        "publishedDate": "2009-09",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "previewLink": "http://books.google.ru/books?id=qWEmcgAACAAJ&dq=intitle:Love+and+hate&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=qWEmcgAACAAJ&dq=intitle:Love+and+hate&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Love_Hate_Love.html?hl=&id=qWEmcgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KEiYmTDtt6IC",
+      "etag": "Xyh8XZCBzpw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KEiYmTDtt6IC",
+      "volumeInfo": {
+        "title": "Men Who Hate Women and the Women Who Love Them",
+        "subtitle": "When Loving Hurts and You Don't Know Why",
+        "authors": [
+          "Susan Forward",
+          "Joan Torres"
+        ],
+        "publisher": "Bantam",
+        "publishedDate": "2002-01-01",
+        "description": "Profiles of men who emotionally abuse women and the women who are attracted to them are accompanied by advice for women who want to improve or terminate misogynistic relationships while increasing their self-respect, courage, and confidence. Reprint.",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.0.0.preview.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KEiYmTDtt6IC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KEiYmTDtt6IC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ru/books?id=KEiYmTDtt6IC&dq=intitle:Love+and+hate&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=KEiYmTDtt6IC&dq=intitle:Love+and+hate&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Men_Who_Hate_Women_and_the_Women_Who_Lov.html?hl=&id=KEiYmTDtt6IC"
+      },
+      "saleInfo": {
+        "country": "RU"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "Profiles of men who emotionally abuse women and the women who are attracted to them are accompanied by advice for women who want to improve or terminate misogynistic relationships while increasing their self-respect, courage, and confidence ..."
+      }
+    }
+  ]
+}
